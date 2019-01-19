@@ -1,0 +1,20 @@
+¿Cómo la visualización de una diferencia entre dos versiones de un archivo lo ayudó a ver el error que se introdujo?
+En archivos grandes, es mucho más rápido que hacerlo manualmente.
+
+¿Cómo podría tener un acceso fácil a todo el historial de un archivo convertirlo en un programador más eficiente a largo plazo?
+Puedo ver versiones anteriores y regresar si algo sale mal.
+
+¿Cuáles crees que son los pros y los contras de elegir manualmente cuándo crear un compromiso, como lo haces en Git, y tener las versiones guardadas automáticamente, como lo hace Google Docs?
+Las ventajas son que elija cuándo hacerlo, porque es mejor que la tonta automatización de otra manera. La contra es que tienes que preocuparte por hacerlo.
+
+¿Por qué cree que algunos sistemas de control de versiones, como Git, permiten guardar varios archivos en un solo compromiso, mientras que otros, como Google Docs, tratan cada archivo por separado?
+Porque está enfocado en el mundo de los programadores, donde es más necesario.
+
+¿Cómo puedes usar los comandos git log y git diff para ver el historial de archivos?
+Primero, viendo el historial de archivos bien clasificados, y luego, comparando aquellos que quiero verificar.
+
+¿Cómo podría el uso del control de versiones hacer que tenga más confianza para realizar cambios que podrían romper algo?
+Podría hacer los cambios que quiero sin riesgo de perder mi trabajo.
+
+Ahora que ya tiene configurada su área de trabajo, ¿para qué quiere intentar usar Git?
+Quiero intentar usarlo para trabajar en mis proyectos de videojuegos y en los proyectos de la universidad.

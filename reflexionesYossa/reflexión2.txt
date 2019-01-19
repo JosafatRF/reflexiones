@@ -1,0 +1,5 @@
+¿Qué sucede cuando se inicializa un repositorio? ¿Por qué necesitas hacerlo?
+Porque sin él, no puede crear confirmaciones, por lo que no puede usar el control de versiones con git.
+
+¿En qué se diferencia el área de preparación del directorio de trabajo y del repositorio? ¿Qué valor crees que ofrece?
+Es diferente del directorio de trabajo en el sentido de que no existe como lo hace un directorio, y es diferente del repositorio porque es un área previa.

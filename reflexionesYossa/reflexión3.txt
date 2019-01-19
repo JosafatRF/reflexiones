@@ -1,0 +1,17 @@
+¿Cuándo querría usar un repositorio remoto en lugar de mantener todo su trabajo local?
+  Cuando quiero colaborar con otras personas y cuando trabajo en diferentes computadoras.
+
+¿Por qué es posible que siempre desee realizar cambios manualmente en lugar de que Git se mantenga actualizado automáticamente con su repositorio remoto?
+Creo que no hay una causa.
+
+Describe las diferencias entre las horquillas, los clones y las ramas. ¿Cuándo usarías uno en lugar de otro?
+Las diferencias son que las ramas no repiten comillas como clones y tenedores. Entre horquillas y clones, son iguales, pero en diferentes plataformas.
+
+¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto almacenado localmente?
+Sabe dónde está la producción y no necesita estar conectado para realizar confirmaciones.
+
+¿Cómo colaborarías sin usar Git o GitHub? ¿Qué sería más fácil y qué sería más difícil?
+Utilizo para colaborar utilizando google drive. No es una buena idea porque no puedes colaborar al mismo tiempo, o puedes hacerlo creando una copia del archivo y luego fusionándola, pero no automáticamente como hace git. Es difícil aprender a usar git, pero es más rápido y más fácil colaborar con él y GitHub.
+
+¿Cuándo querría realizar cambios en una rama separada en lugar de hacerlo directamente en el maestro? ¿Qué beneficios tiene cada enfoque?
+Me gustaría crear una rama cuando me gustaría hacer cambios en una característica específica del código. La separación en ramas tiene el beneficio de que las diferentes obras están separadas; hacer todo en el maestro puede ser confuso, pero es más fácil "fusionar".
